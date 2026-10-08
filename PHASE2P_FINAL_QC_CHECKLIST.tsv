@@ -1,0 +1,13 @@
+item	result	evidence
+50 claims unchanged	PASS	SHA256 9b59a9b963499b68aba265726d006fa8f2a084b04a29405ea091482aba7d6d9b matches the pre-QC master
+19 papers	PASS	19 paper_id values in the frozen master
+all reusability classes unchanged	PASS	FULLY 0, PARTIAL 13, NOT 5, UNRESOLVED 32; master hash unchanged
+all four classes sum to 50	PASS	0+13+5+32=50
+first-unclosed-node available 50/50	PASS	PHASE2P_FIRST_UNCLOSED_BY_CLAIM.tsv has 50 rows
+cascade nested	PASS	50>=41>=15>=8>=8>=1>=1>=0>=0
+paper bootstrap complete	PASS	10000 replicates, seed 20261008, paper_id clusters
+cohort bootstrap complete	PASS	10000 replicates, seed 20261008, cohort_id clusters
+zero-event CI handled	PASS	FULLY_REUSABLE interval_status NOT_INFORMATIVE_FOR_ZERO_EVENT; no pseudo-count
+rule-QC language corrected	PASS	manuscript uses prespecified-rule consistency QC; no kappa and no independent-reviewer claim
+no abundance model run	PASS	no composition model was fit in this QC
+no replication rate claimed	PASS	manuscript states reconstruction only

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this versioned code and derived audit resource."
+title: "Claim-level provenance and reusability of cell-composition estimands in single-cell disease studies"
+type: dataset
+version: 1.0.0
+date-released: '2026-10-08'
+authors:
+  - family-names: Lin
+    given-names: Da
+    affiliation: "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, No. 109 Xueyuan West Road, Lucheng District, Wenzhou, Zhejiang Province, China"
+  - family-names: Chen
+    given-names: Ying
+    affiliation: "Wenzhou Medical University, Wenzhou, China"
+  - family-names: Liu
+    given-names: Yue
+    affiliation: "Wenzhou Medical University, Wenzhou, China"
+  - family-names: Zhang
+    given-names: Yu
+    affiliation: "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, No. 109 Xueyuan West Road, Lucheng District, Wenzhou, Zhejiang Province, China"
+    email: zhangyu1@wzhealth.com
+abstract: 'Frozen derived claim-level provenance audit; 50 claims from 19 papers and 18 cohorts.'
+license: CC-BY-4.0
+repository-code: "https://github.com/seefreewind/cell-composition-provenance-audit"
+url: "https://github.com/seefreewind/cell-composition-provenance-audit"

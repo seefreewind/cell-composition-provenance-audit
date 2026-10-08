@@ -1,0 +1,10 @@
+step	n	prior_n	nested
+human_locked_claims	50		PASS
+verified_public_source	41	50	PASS
+verified_cohort_within_public_source	15	41	PASS
+verified_donor_mapping	8	15	PASS
+verified_condition_mapping	8	8	PASS
+recovered_author_label	1	8	PASS
+reconstructed_numerator	1	1	PASS
+reconstructed_denominator	0	1	PASS
+fully_reusable	0	0	PASS

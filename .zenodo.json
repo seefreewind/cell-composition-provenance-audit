@@ -1,0 +1,41 @@
+{
+  "title": "Claim-level provenance and reusability of cell-composition estimands in single-cell disease studies",
+  "upload_type": "dataset",
+  "description": "Frozen derived claim-level provenance audit and reproducible software for 50 composition claims from 19 human single-cell disease papers and 18 cohorts. Includes provenance classes and node statuses, cohort relationships, marginal and nested closure summaries, paper- and cohort-clustered bootstrap summaries, corpus-flow records, search strategy, documentation, portable numerical checks and figure-generation code. The resource measures reconstructability under a bounded public-source search. The four frozen classes contain 0 fully reusable, 13 partially reusable, 5 source-supported non-reusable and 32 unresolved claims. Raw sequencing files, third-party expression matrices, article PDFs and participant-level objects are not included.",
+  "creators": [
+    {
+      "name": "Lin, Da",
+      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+    },
+    {
+      "name": "Chen, Ying",
+      "affiliation": "Wenzhou Medical University, Wenzhou, China"
+    },
+    {
+      "name": "Liu, Yue",
+      "affiliation": "Wenzhou Medical University, Wenzhou, China"
+    },
+    {
+      "name": "Zhang, Yu",
+      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": [
+    "single-cell",
+    "composition estimand",
+    "provenance",
+    "data reusability",
+    "reproducibility",
+    "audit"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/seefreewind/cell-composition-provenance-audit",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

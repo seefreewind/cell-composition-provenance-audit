@@ -1,0 +1,20 @@
+paper_id	reference	title	doi	pmid	accession
+PMID31506348	2	The single-cell transcriptomic landscape of early human diabetic nephropathy	10.1073/pnas.1908706116	31506348	GSE131882
+PMID32511460	12	Single-cell Transcriptome Analysis Indicates New Potential Regulation Mechanism of ACE2 and NPs signaling among heart failure patients infected with SARS-CoV-2	10.1101/2020.04.30.20081257	32511460	UNRESOLVED
+PMID32661339	1	Persistence of a regeneration-associated, transitional alveolar epithelial cell state in pulmonary fibrosis	10.1038/s41556-020-0542-8	32661339	GSE135893
+PMID32754283	13	Single-cell analysis reveals immune landscape in kidneys of patients with chronic transplant rejection	10.7150/thno.48201	32754283	GSE131685
+PMID34019156	14	Altered oligodendroglia and astroglia in chronic traumatic encephalopathy	10.1007/s00401-021-02322-2	34019156	GSE155114
+PMID35549656	15	Increased SARS-CoV-2 Infection, Protease, and Inflammatory Responses in Chronic Obstructive Pulmonary Disease Primary Bronchial Epithelial Cells Defined with Single-Cell RNA Sequencing	10.1164/rccm.202108-1901OC	35549656	NONE_LOCATED
+PMID35662411	16	Single-cell RNA sequencing reveals immunological rewiring at the maternal-fetal interface following asymptomatic/mild SARS-CoV-2 infection	10.1016/j.celrep.2022.110938	35662411	PRJNA817521
+PMID36848564	17	Innate immune cell activation causes lung fibrosis in a humanized model of long COVID	10.1073/pnas.2217199120	36848564	GSE149878;GSE122960;GSE163919;GSE158127
+PMID37312900	18	Integrated Analysis of Single-Cell RNA-Seq and Bulk RNA-Seq Combined with Multiple Machine Learning Identified a Novel Immune Signature in Diabetic Nephropathy	10.2147/DMSO.S413569	37312900	GSE131882
+PMID38187779	19	Human disease-specific cell signatures in non-lesional tissue in Multiple Sclerosis detected by single-cell and spatial transcriptomics	10.1101/2023.12.20.572491	38187779	UNRESOLVED
+PMID40359016	20	Early multiple sclerosis activity associated with TBX21+CD21loCXCR3+ B cell expansion resembling EBV-induced phenotypes	10.1172/jci.insight.188543	40359016	GSE267750
+PMID40744996	21	Tracking clonal dynamics of CD8 T cells and immune dysregulation in progression of systemic lupus erythematosus with nephritis	10.1038/s12276-025-01504-2	40744996	GSE254176
+PMID40879186	22	Phenotypic Changes in a Monocyte Cluster with High Interleukin‐1 Beta Expression during Long‐Term Anti‐ CD20 Therapy	10.1002/ana.78004	40879186	NONE_PUBLIC
+PMID41578022	23	Aberrant cellular communities underlying disease heterogeneity in chronic obstructive pulmonary disease	10.1038/s41588-025-02480-z	41578022	GSE310058
+PMID41629974	24	Natural killer cell reduction and dysfunction define a pathogenic and diagnostic axis in neuromyelitis optica spectrum disorder	10.1186/s12974-026-03710-9	41629974	NONE_PUBLIC
+PMID41699549	25	Multi-omics SMR and experimental supportive analyses decipher causal drivers hepatocellular carcinoma	10.1186/s12885-026-15667-2	41699549	GSE245906
+PMID41937210	26	An integrative single-nucleus multiomic atlas of the human left ventricle identifies gene regulatory network dynamics across cardiac development, aging, and disease	10.1186/s13059-026-04061-7	41937210	GSE290367
+PMID42292441	27	CD14+CD16+ monocyte-derived TREM2 macrophages promote lung fibrosis in systemic sclerosis–interstitial lung disease	10.3389/fimmu.2026.1748574	42292441	GSE128169;GSE159354
+PMID42433374	28	From islet to blood: macrophage remodeling signatures for diagnosis and risk stratification in type 1 diabetes	10.3389/fimmu.2026.1832672	42433374	GSE181674;GSE50244;GSE162689

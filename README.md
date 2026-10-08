@@ -31,8 +31,12 @@ Bootstrap summaries use 10,000 draws and seed 20261008, resetting the random-num
 
 ## Access and citation
 
-Code and derived data: https://github.com/seefreewind/cell-composition-provenance-audit. Cite the creators and version using `CITATION.cff`. A persistent archive is created through the linked GitHub–Zenodo release integration; the published record will supply the DOI.
+Code and derived data: https://github.com/seefreewind/cell-composition-provenance-audit. Cite the creators and version using `CITATION.cff`. Version 1.0.0 is archived in Zenodo: https://doi.org/10.5281/zenodo.23235247.
 
 ## License and source rights
 
 CC BY 4.0 applies to the original audit software, derived metadata and documentation, as confirmed by the authors. Original publications, quoted evidence anchors and underlying datasets retain their own terms and attribution. No copyrighted article PDFs, third-party expression matrices, raw sequencing files, participant-level objects, credentials or manuscript drafts are included.
+
+## Persistent citation
+
+Lin, D., Chen, Y., Liu, Y. & Zhang, Y. (2026). Claim-level provenance and reusability of cell-composition estimands in single-cell disease studies (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23235247

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite this versioned code and derived audit resource."
 title: "Claim-level provenance and reusability of cell-composition estimands in single-cell disease studies"
 type: dataset
-version: 1.0.0
+version: 1.0.1
 date-released: '2026-10-08'
 authors:
   - family-names: Lin

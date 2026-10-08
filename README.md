@@ -1,6 +1,6 @@
 # Claim-level provenance and reusability of cell-composition estimands in single-cell disease studies
 
-Version 1.0.0. Audit freeze: 2026-10-08.
+Version 1.0.1. Audit freeze: 2026-10-08.
 
 This resource contains frozen derived audit data and reproducible code for **50 claims, 19 papers and 18 cohorts**. It assesses whether the donor set, annotation, numerator and denominator underlying a published composition estimand can be reconstructed under a bounded public-source search.
 
@@ -12,7 +12,7 @@ Class totals: fully reusable 0; partially reusable 13; source-supported non-reus
 - `Supplementary_Table_Corpus_Flow.tsv`: 418 staged screening events with historical review status and frozen final membership. Events must not be summed as unique papers.
 - `docs/`: data dictionary, provenance schema, class rules, reproduction instructions, search strategy and frozen protocols.
 - `scripts/reproduce.py`: read-only input-hash verification and numerical reproduction.
-- `scripts/figure_generation.py`: generation of Figures 1–4 and S1 solely from frozen audit metadata.
+- `scripts/figure_generation_final.py`: final publication Figures 1–4 and descriptive S1 solely from frozen audit metadata; `scripts/figure_generation.py` retains the earlier visual implementation.
 - `scripts/original/`: historical code required by the portable checker; the builder is for inspection, not reclassification of frozen inputs.
 - `figures/`: editable SVG reference figures and Figure 3 row keys. PNG and TIFF can be regenerated.
 - `FROZEN_INPUT_HASHES.json`: hashes of unchanged audit TSVs; `SHA256SUMS.txt`: release-file hashes.
@@ -24,7 +24,7 @@ Python 3.12+, NumPy 2.3.5 and Matplotlib 3.11.0. In an isolated environment:
 ```sh
 python -m pip install -r requirements.txt
 python scripts/reproduce.py --output reproduction_output
-python scripts/figure_generation.py --output generated_figures
+python scripts/figure_generation_final.py --output generated_final_figures
 ```
 
 Bootstrap summaries use 10,000 draws and seed 20261008, resetting the random-number generator independently for paper and cohort clustering. Numerical checks and plotting do not modify the frozen classifications. Source re-adjudication would require a separately versioned assessment.

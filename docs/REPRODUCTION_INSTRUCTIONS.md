@@ -6,7 +6,7 @@ Python 3.12+ with NumPy 2.3.5 and Matplotlib 3.11.0 was used for portable summar
 python -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 .venv/bin/python scripts/reproduce.py --output reproduction_output
-.venv/bin/python scripts/figure_generation.py --output figures
+.venv/bin/python scripts/figure_generation_final.py --output figures
 ```
 
 The first command verifies frozen SHA256 values, class totals, unique papers/cohorts, marginal and nested closure, stop totals, rule consistency, and clustered-bootstrap limits against the released tables. It uses seed 20261008 and 10,000 draws. Paper and cohort bootstraps each initialize a fresh RNG with that seed, as in the historical QC. Zero-event limits remain non-informative. Summary recomputation does not rerun abundance models, source discovery, or human adjudication.

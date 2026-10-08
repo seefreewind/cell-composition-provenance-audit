@@ -1,6 +1,6 @@
 # Claim-level provenance and reusability of cell-composition estimands in single-cell disease studies
 
-Version 1.0.1. Audit freeze: 2026-10-08.
+Version 1.0.2. Audit freeze: 2026-10-08.
 
 This resource contains frozen derived audit data and reproducible code for **50 claims, 19 papers and 18 cohorts**. It assesses whether the donor set, annotation, numerator and denominator underlying a published composition estimand can be reconstructed under a bounded public-source search.
 

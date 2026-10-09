@@ -40,3 +40,11 @@ CC BY 4.0 applies to the original audit software, derived metadata and documenta
 ## Persistent citation
 
 Lin, D., Chen, Y., Liu, Y. & Zhang, Y. (2026). Claim-level provenance and reusability of cell-composition estimands in single-cell disease studies (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23235247
+
+## Versioned citation metadata correction
+
+The original frozen resource is version 1.0.0, DOI https://doi.org/10.5281/zenodo.23235247. Final figure code is version 1.0.2, DOI https://doi.org/10.5281/zenodo.23240780. The concept DOI https://doi.org/10.5281/zenodo.23235246 identifies the version family. Current CITATION.cff cites version 1.0.2 with its matching DOI.
+
+The immutable v1.0.2 archive contains a CITATION.cff that inherited the v1.0.0 DOI while declaring version 1.0.2. This citation-file error is corrected here; use the official Zenodo version metadata for that archive. Numerical data, classifications and figure outputs are unchanged.
+
+The frozen heart-failure source remains Xu et al., medRxiv (2020), DOI 10.1101/2020.04.30.20081257, PMID 32511460. It was subsequently published as Ma M, Xu Y, Su Y et al., Front Cardiovasc Med. 2021;8:628885, DOI 10.3389/fcvm.2021.628885, PMID 33718452. The later publication is a provenance note, not a replacement for the audited preprint.
